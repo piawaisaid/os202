@@ -1,24 +1,29 @@
-# Week00
+# Week 00
 ZCZC W00 nmhlog
 ZCZC W00 raihanarmon
 ZCZC W00 primogu
 
-# Week01
+# Week 01
 ZCZC W01 raihanarmon
 ZCZC W01 nmhlog
 ZCZC W01 mhanif-82
 
-# Week02
+# Week 02
 ZCZC W02 putrisalsa26
 ZCZC W02 mhanif-82
 ZCZC W02 nmhlog
 
-# Week03
+# Week 03
 ZCZC W03 putrisalsa26
 ZCZC W03 nyomangedar
 ZCZC W03 mhanif-82
 
-# Week04
+# Week 04
 ZCZC W04 mhanif-82
 ZCZC W04 primogu
 ZCZC W04 putrisalsa26
+
+# Week 05
+ZCZC W05 raihanarmon
+ZCZC W05 nmhlog
+ZCZC W05 putrisalsa26
