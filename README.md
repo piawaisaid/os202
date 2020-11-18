@@ -18,7 +18,7 @@
 - Week 04
 - Week 05
 - [Week 06](W06/)
-- Week 07
+- [Week 07](W07/)
 - Week 08
 - Week 09
 - Week 10
