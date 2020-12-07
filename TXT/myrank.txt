@@ -37,3 +37,8 @@ ZCZC W06 qiwqiw
 ZCZC W07 mhanif-82
 ZCZC W07 primogu
 ZCZC W07 nyomangedar
+
+# Week 08
+ZCZC W08 nmhlog
+ZCZC W08 nyomangedar
+ZCZC W08 putrisalsa26
