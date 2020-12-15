@@ -42,3 +42,8 @@ ZCZC W07 nyomangedar
 ZCZC W08 nmhlog
 ZCZC W08 nyomangedar
 ZCZC W08 putrisalsa26
+
+# Week 09
+ZCZC W09 raihanarmon
+ZCZC W09 mhanif-82
+ZCZC W09 primogu

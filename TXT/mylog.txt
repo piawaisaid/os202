@@ -116,3 +116,13 @@ ZCZC W09  10 L04 GitHub Pages related
 ZCZC W09  25 L05 GSGS related
 ZCZC W09  40 L06 Read references
 ZCZC W09 250 L10 Assignment
+
+# Week 10
+ZCZC W10   5 L00 General log
+ZCZC W10  15 L01 SCELE related
+ZCZC W10  60 L02 ZOOM: weekly meeting
+ZCZC W10  15 L03 GitHub related
+ZCZC W10  10 L04 GitHub Pages related
+ZCZC W10  30 L05 GSGS related
+ZCZC W10  20 L06 Read references
+ZCZC W10 220 L10 Assignment
